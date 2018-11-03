@@ -20,17 +20,20 @@ The dataset has four main fields related to general information such as the barc
 For more information: [data-fields of Open Food Facts](https://static.openfoodfacts.org/data/data-fields.txt)
 
 # A list of internal milestones up until project milestone 2
-Setup: Done by November 8
+## Setup: Done by November 8
 - Understand how the data is stored on the ADA cluster
 - Look at the data and brainstorm ways to clean/process the data
 - Brainstorm how to display the data
-Clean & Start Processing: Done by November 15
+
+## Clean & Start Processing: Done by November 15
 - Clean the data from Open Food Facts
 - Start finding relationships between the different types of food in each country; perhaps present them in a map
-Finish Processing & Analyzing: Done by November 22
+
+## Finish Processing & Analyzing: Done by November 22
 - Finish all graphs/maps needed
 - Write the conclusions from the graphs
-Clean up: Done by November 25
+
+## Clean up: Done by November 25
 - Clean code, write comments as needed
 
 # Questions for TAa
