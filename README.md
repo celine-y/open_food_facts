@@ -1,6 +1,4 @@
-# Title
-
-Global food analysis
+# Open Food Facts Data Analysis
 
 # Abstract
 
