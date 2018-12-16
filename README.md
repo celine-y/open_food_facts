@@ -1,5 +1,7 @@
 # Open Food Facts Data Analysis
 
+Web Page [A tale about food workdwide](https://ageapps.github.io/open_food_facts/)
+
 # Abstract
 
 According to the Food allergy Research & Education, there have been over 170 reports of different foods causing allergies. In America, there is approximately 15 million people who have food allergies, and this number is rising. Between 1997 to 2011, the number of food allergies in children increased by 50%. More specifically, from 1997 to 2008, the presence of peanut/tree nut allergies have tripled in the United States. With this increase in allergies, we wanted to analyze how different countries in the world support the people with different kinds of intolerances to food (i.e. allergies) as well as those who require a specific diet (i.e. diabetes, high cholesterol, vegan, halal). From our analysis, we want to show how easy/hard it would be to support the different diets around the world. This way, when people are travelling, they can be prepared for the limited number of foods they can eat. For this project, we will be using the Open Food Facts Database.
