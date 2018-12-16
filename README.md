@@ -70,3 +70,15 @@ For more information: [data-fields of Open Food Facts](https://static.openfoodfa
   + Explain the algorithms we used when cleaning our data and displaying our graphs
 
   + Explain our results of what our results (data) shows and what it means
+  
+# Contributions
+## Adrian
+Developed helper functions used throughout the notebook, mainly focusing on saving processed data and retrieving it from .csv files. Also focused on the cleaning part of nutrients, labels, allergens and ingredients, this involves not only parsing horrible formatted texts but translating and extracting keywords. For this milestone, Adrian was focused on the blog development.
+
+## Celine
+Involved with data cleaning (specifically the product name and missing values for country), writing the algorithm to help with categorizing items based on the dietary restrictions we wished to look for and, creating the maps with different layers for different dietary restrictions. For the next milestone, Celine will be presenting the project.
+
+## Karen
+Cleaned the float64 columns, analyzing that the result values make sense with the different nutrients we are analyzing. Once, it has done it was possible to plot the amount of each nutrient consumed in each country. In order to visualize easily the figures, the countries were divided in continents so that it was possible to extract conclusions about the alimentary habits in each continent as well as which countries are the most consumers of each nutrient.
+For the next milestone, Karen will design the poster of the project.
+
